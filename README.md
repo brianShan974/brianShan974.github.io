@@ -1,4 +1,4 @@
-# .
+# 
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -36,12 +36,6 @@ npm run build
 
 ```sh
 npm run test:unit
-```
-
-### Run End-to-End Tests with [Cypress](https://www.cypress.io/)
-
-```sh
-npm run test:e2e:dev
 ```
 
 This runs the end-to-end tests against the Vite development server.

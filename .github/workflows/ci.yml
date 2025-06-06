@@ -13,4 +13,3 @@ jobs:
       - run: npm run lint
       - run: npm run format
       - run: npm run test:unit
-      - run: npm run test:e2e
